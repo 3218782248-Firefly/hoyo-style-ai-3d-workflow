@@ -1,0 +1,6 @@
+.venv/
+.work/
+__pycache__/
+*.pyc
+*.local.json
+*.blend1
